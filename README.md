@@ -1,1 +1,1 @@
-# sql-irina-antipina-de24
+# sql course  using duckdb
