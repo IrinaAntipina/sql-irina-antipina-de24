@@ -2,8 +2,7 @@
 SELECT * FROM database.duckdb WHERE id IN (5,8);
 
 
-DELETE
-	*
+DELETE 
 FROM
 	database.duckdb
 WHERE
